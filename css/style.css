@@ -39,3 +39,11 @@ h4,
   background-position: center top;
   background-attachment: fixed;
 }
+/* contact info 영역 */
+.contactInfo {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+    url(../images/contact-bg.jpg);
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+}
